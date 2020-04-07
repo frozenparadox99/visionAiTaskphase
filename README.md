@@ -2,13 +2,14 @@
 
 This is the main repository in which you'll have to commit the code you write through PRs
 
+## ML Exercises
 
-## Getting Started
 ```
-* Fork the repository
-* Clone it into a folder where you'll be working
-* Once told, copy the exercise file in the same folder it exists in just rename the copy as your_name.ipynb
+* Do a git pull into the cloned directory you've been working with
+* There are 2 notebooks in each section
+* Go through the walkthrough notebook first to get familiar with ML using python
 * Solve the exercises and then commit the code
-* On github.com, make a Pull Request
-* Keep in mind that you'll have to add this repository as an upstream and your fork as a remote origin 
+* Push the code into your forked repo and then make a PR to the branch with your name
+* You can send the PR to the master branch as well
+* For that copy the exercise notebook with your name
 ```
